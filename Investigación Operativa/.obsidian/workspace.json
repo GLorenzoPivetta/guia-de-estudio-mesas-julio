@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Unidad 8 - Teoría de Juegos.md",
+                "file": "Conceptos/Unidad 1 - Introducción a la Investigación Operativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidad 8 - Teoría de Juegos"
+              "title": "Unidad 1 - Introducción a la Investigación Operativa"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "31efd74e3161cc80",
   "lastOpenFiles": [
+    "Conceptos/Unidad 8 - Teoría de Juegos.md",
     "Conceptos/Unidad 7 - Modelos de Inventario.md",
     "Conceptos/Unidad 6 - Logística Transporte y Asignación.md",
     "Conceptos/Unidad 5 - Fenómenos de Espera.md",
