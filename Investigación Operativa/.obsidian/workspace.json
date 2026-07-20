@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Unidad 1 - Introducción a la Investigación Operativa.md",
+                "file": "Conceptos/Unidad 4 - Simulación Estocástica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidad 1 - Introducción a la Investigación Operativa"
+              "title": "Unidad 4 - Simulación Estocástica"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "31efd74e3161cc80",
   "lastOpenFiles": [
+    "Conceptos/Unidad 1 - Introducción a la Investigación Operativa.md",
     "Conceptos/Unidad 8 - Teoría de Juegos.md",
     "Conceptos/Unidad 7 - Modelos de Inventario.md",
     "Conceptos/Unidad 6 - Logística Transporte y Asignación.md",
@@ -192,7 +193,6 @@
     "Conceptos/Unidad 4 - Simulación Estocástica.md",
     "Conceptos/Unidad 3 - Camino Crítico PERT CPM.md",
     "Conceptos/Unidad 2 - Programación Lineal.md",
-    "Conceptos/Investigación Operativa - Índice.md",
-    "Conceptos/Unidad 1 - Introducción a la Investigación Operativa.md"
+    "Conceptos/Investigación Operativa - Índice.md"
   ]
 }

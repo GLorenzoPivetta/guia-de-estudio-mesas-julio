@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Ciclo de Vida Iterativo e Incremental.md",
+                "file": "Conceptos/Unidad I - Desarrollo OO y Ciclos de Vida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ciclo de Vida Iterativo e Incremental"
+              "title": "Unidad I - Desarrollo OO y Ciclos de Vida"
             }
           }
         ]
@@ -181,5 +181,7 @@
     }
   },
   "active": "153f1f769b168381",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Conceptos/Ciclo de Vida Iterativo e Incremental.md"
+  ]
 }
