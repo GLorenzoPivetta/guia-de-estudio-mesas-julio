@@ -82,5 +82,4 @@ El [[Proceso Unificado de Desarrollo]] se apoya fuertemente en análisis y dise�
 
 ## Recursos
 
-- [[../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 2.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 2]]
-
+- [[../../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 2.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 2]]

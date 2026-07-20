@@ -76,4 +76,4 @@ Los riesgos más importantes deberían atacarse temprano, especialmente en Inici
 
 ## Recursos
 
-- [[../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
+- [[../../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]

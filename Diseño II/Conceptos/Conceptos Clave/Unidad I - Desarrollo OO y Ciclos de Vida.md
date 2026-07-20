@@ -31,6 +31,7 @@ Para el oral, esta unidad no conviene estudiarla como una lista de definiciones.
 - [[Desarrollo Orientado a Objetos]]
 - [[Riesgo y Entropía en Proyectos de Software]]
 - [[Proceso Unificado de Desarrollo]]
+- [[Casos de Uso]]
 
 ## Guion oral de la unidad
 
@@ -47,7 +48,6 @@ Para el oral, esta unidad no conviene estudiarla como una lista de definiciones.
 
 ## Recursos
 
-- [[../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 1.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 1]]
-- [[../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 2.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 2]]
-- [[../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
-
+- [[../../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 1.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 1]]
+- [[../../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 2.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 2]]
+- [[../../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]

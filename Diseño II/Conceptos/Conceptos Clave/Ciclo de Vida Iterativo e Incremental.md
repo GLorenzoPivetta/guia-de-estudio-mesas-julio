@@ -87,6 +87,5 @@ La diferencia con un enfoque ágil liviano es que el Proceso Unificado mantiene 
 
 ## Recursos
 
-- [[../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
-- [[../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo. La Iteración Genérica.pdf|Proceso Unificado de Desarrollo - Iteración genérica]]
-
+- [[../../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
+- [[../../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo. La Iteración Genérica.pdf|Proceso Unificado de Desarrollo - Iteración genérica]]

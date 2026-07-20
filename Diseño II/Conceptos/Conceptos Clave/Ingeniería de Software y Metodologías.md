@@ -11,13 +11,13 @@ aliases:
 
 # Ingeniería de Software y Metodologías
 
-La ingeniería de software aparece porque construir software no es solamente escribir código. Un sistema real suele tener muchos requisitos, usuarios con expectativas distintas, restricciones técnicas, costos de mantenimiento, cambios durante el proyecto y riesgos de comunicación dentro del equipo.
+La ingeniería de software aparece porque ==construir software no es solamente escribir código==. Un sistema real suele tener muchos requisitos, usuarios con expectativas distintas, restricciones técnicas, costos de mantenimiento, cambios durante el proyecto y riesgos de comunicación dentro del equipo.
 
-Una metodología de desarrollo busca formalizar las actividades necesarias para producir sistemas de información de manera confiable y repetible. La idea no es burocratizar el trabajo, sino evitar que el resultado dependa de improvisación, memoria individual o desarrolladores "heroicos".
+==Una metodología de desarrollo busca formalizar las actividades necesarias para producir sistemas de información de manera confiable y repetible.== La idea no es burocratizar el trabajo, sino evitar que el resultado dependa de improvisación, memoria individual o desarrolladores "heroicos".
 
 ## Problema que intenta resolver
 
-El software tiene una dificultad particular: es intangible, cambia rápido y suele crecer en complejidad. A diferencia de otros productos, muchas decisiones importantes no se ven hasta que el sistema empieza a ejecutarse o integrarse.
+El software tiene una dificultad particular: ==es intangible, cambia rápido y suele crecer en complejidad.== A diferencia de otros productos, muchas decisiones importantes no se ven hasta que el sistema empieza a ejecutarse o integrarse.
 
 Por eso una metodología sirve para:
 
@@ -42,7 +42,7 @@ En el oral, una buena idea es explicar que la metodología no elimina la complej
 
 ## Metodología no es ciclo de vida
 
-Una metodología es más amplia que un ciclo de vida.
+==Una metodología es más amplia que un ciclo de vida.==
 
 El ciclo de vida define cómo avanza el proyecto en el tiempo: por etapas lineales, iteraciones, incrementos, prototipos, entregas, etc.
 
@@ -64,14 +64,18 @@ Por ejemplo, [[Proceso Unificado de Desarrollo]] no solo dice que el proyecto es
 
 ## Preguntas probables
 
-- ¿Qué problema resuelve una metodología?
-- ¿Por qué no alcanza con tener buenos programadores?
-- ¿Qué diferencia hay entre metodología y ciclo de vida?
-- ¿Qué significa que un proceso sea confiable y repetible?
-- ¿Qué relación hay entre metodología, calidad y mantenimiento?
+- **¿Qué problema resuelve una metodología?**
+	- *Una metodología le da estructura al proceso de desarrollo de un producto de software. Permite organizar el caos que implica el desarrollo y también sirve para mitigar posibles errores que surjan del mismo.*
+- **¿Por qué no alcanza con tener buenos programadores?**
+	- *Si el proyecto entero está sostenido por un par de programadores buenos, y alguno se va, el avance del proyecto se ve gravemente afectado. Aparte, podemos tener buenos programadores y seguir en desorden en cuanto al scope y progreso del proyecto.*
+- **¿Qué diferencia hay entre metodología y ciclo de vida?**
+	- *El ciclo de vida impone etapas o fases para dividir el avance de un proyecto. La metodología, además, añade rituales, estructura y prototipos que facilitan y aceleran el desarrollo de un proyecto.*
+- **¿Qué significa que un proceso sea confiable y repetible?**
+	- *Significa que puede ser replicado a lo largo del ciclo de vida de un proyecto y continuamente ayuda a mejorar la calidad del producto, y ayuda a detectar irregularidades durante el proceso.*
+- **¿Qué relación hay entre metodología, calidad y mantenimiento?**
+	- *La metodología dicta directamente los métodos y procesos que van a determinar luego la calidad del producto final. Además, el ciclo de vida no termina con la entrega del artefacto, si no que es usual que se requiera mantenimiento, la metodología y la manera en que se va contruyendo el artefacto, va a determinar que tanto mantenimiento se necesita luego y que tan complejo es de realizar.*
 
 ## Recursos
 
-- [[../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 1.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 1]]
-- [[../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
-
+- [[../../Recursos/CV Introduccion/Schach_Ing de Software Clásica y OO_Cap 1.pdf|Schach - Ingeniería de Software Clásica y OO, Cap. 1]]
+- [[../../Recursos/Proceso Unificado/Proceso Unificado de Desarrollo_Introducción.pdf|Proceso Unificado de Desarrollo - Introducción]]
