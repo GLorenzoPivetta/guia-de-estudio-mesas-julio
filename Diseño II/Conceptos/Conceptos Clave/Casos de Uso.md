@@ -12,7 +12,7 @@ aliases:
 
 # Casos de Uso
 
-Un caso de uso describe ==una forma en que un actor obtiene un resultado de valor al interactuar con el sistema==. Expresa un requisito funcional desde la perspectiva de quien usa o se relaciona con el sistema; por eso explica **qué debe lograr el sistema**, sin adelantar todavía cómo estará programado internamente.
+Un caso de uso describe ==una forma en que un actor obtiene un resultado de valor al interactuar con el sistema==. Expresa un requisito funcional desde la perspectiva de quien usa o se relaciona con el sistema; por eso ==explica **qué debe lograr el sistema**==, sin adelantar todavía cómo estará programado internamente.
 
 La idea clave es que un caso de uso no es una pantalla, una clase ni un botón. Es un objetivo con sentido para un actor. Por ejemplo, en un sistema de turnos médicos, `Solicitar turno` es un caso de uso porque el paciente busca concretar una reserva; la pantalla donde elige la fecha es solo una parte de ese recorrido.
 
