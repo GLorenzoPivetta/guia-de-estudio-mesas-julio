@@ -105,10 +105,6 @@
               },
               "icon": "links-coming-in",
               "title": "Enlaces entrantes de Unidad 3 - Camino Crítico PERT CPM"
-            }
-          },
-          {
-            "id": "1b12b60f6ea3d29e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,10 +115,6 @@
               },
               "icon": "links-going-out",
               "title": "Enlaces salientes de Unidad 3 - Camino Crítico PERT CPM"
-            }
-          },
-          {
-            "id": "bf87211b49f5429e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -185,8 +177,16 @@
   },
   "active": "c292828f7c300f3a",
   "lastOpenFiles": [
-    "Conceptos/Unidad 2 - Programación Lineal.md",
     "Conceptos/Unidad 1 - Introducción a la Investigación Operativa.md",
+    "Conceptos/Unidad 8 - Teoría de Juegos.md",
+    "Conceptos/Unidad 7 - Modelos de Inventario.md",
+    "Conceptos/Unidad 6 - Logística Transporte y Asignación.md",
+    "Conceptos/Unidad 5 - Fenómenos de Espera.md",
+    "Conceptos/Unidad 4 - Simulación Estocástica.md",
+    "Conceptos/Unidad 3 - Camino Crítico PERT CPM.md",
+    "Conceptos/Unidad 2 - Programación Lineal.md",
+    "Conceptos/Investigación Operativa - Índice.md"
+  ]
     "Conceptos/Investigación Operativa - Índice.md"
   ]
 }
